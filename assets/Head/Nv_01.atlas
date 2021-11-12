@@ -1,0 +1,193 @@
+
+Nv_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Face_1
+  rotate: false
+  xy: 825, 73
+  size: 166, 121
+  orig: 166, 121
+  offset: 0, 0
+  index: -1
+02/Leg_R
+  rotate: false
+  xy: 313, 272
+  size: 309, 738
+  orig: 309, 738
+  offset: 0, 0
+  index: -1
+02/LiuHai
+  rotate: true
+  xy: 624, 584
+  size: 212, 396
+  orig: 212, 396
+  offset: 0, 0
+  index: -1
+02/Pigu
+  rotate: false
+  xy: 2, 2
+  size: 333, 268
+  orig: 333, 268
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: false
+  xy: 831, 319
+  size: 178, 263
+  orig: 178, 263
+  offset: 0, 0
+  index: -1
+Arm_Up_R
+  rotate: false
+  xy: 672, 64
+  size: 151, 251
+  orig: 151, 251
+  offset: 0, 0
+  index: -1
+Face_1
+  rotate: false
+  xy: 831, 196
+  size: 166, 121
+  orig: 166, 121
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 2, 272
+  size: 309, 738
+  orig: 309, 738
+  offset: 0, 0
+  index: -1
+LiuHai
+  rotate: true
+  xy: 624, 798
+  size: 212, 396
+  orig: 212, 396
+  offset: 0, 0
+  index: -1
+Pigu
+  rotate: false
+  xy: 337, 2
+  size: 333, 268
+  orig: 333, 268
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 624, 317
+  size: 205, 265
+  orig: 205, 265
+  offset: 0, 0
+  index: -1
+
+Nv_012.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Hair
+  rotate: false
+  xy: 679, 346
+  size: 298, 675
+  orig: 298, 675
+  offset: 0, 0
+  index: -1
+02/Leg_L
+  rotate: false
+  xy: 188, 306
+  size: 184, 715
+  orig: 184, 715
+  offset: 0, 0
+  index: -1
+02/head
+  rotate: true
+  xy: 374, 375
+  size: 205, 265
+  orig: 205, 265
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 679, 2
+  size: 109, 224
+  orig: 109, 224
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 374, 582
+  size: 237, 439
+  orig: 237, 439
+  offset: 0, 0
+  index: -1
+Coat
+  rotate: false
+  xy: 679, 113
+  size: 251, 231
+  orig: 251, 231
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 2, 6
+  size: 298, 675
+  orig: 298, 675
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 932, 224
+  size: 89, 120
+  orig: 89, 120
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: true
+  xy: 905, 19
+  size: 92, 113
+  orig: 92, 113
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 2, 306
+  size: 184, 715
+  orig: 184, 715
+  offset: 0, 0
+  index: -1
+
+Nv_013.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Arm_Up_L
+  rotate: true
+  xy: 755, 83
+  size: 150, 245
+  orig: 150, 245
+  offset: 0, 0
+  index: -1
+02/Arm_Up_R
+  rotate: true
+  xy: 255, 82
+  size: 151, 251
+  orig: 151, 251
+  offset: 0, 0
+  index: -1
+02/Coat
+  rotate: false
+  xy: 2, 2
+  size: 251, 231
+  orig: 251, 231
+  offset: 0, 0
+  index: -1
+Arm_Up_L
+  rotate: true
+  xy: 508, 83
+  size: 150, 245
+  orig: 150, 245
+  offset: 0, 0
+  index: -1

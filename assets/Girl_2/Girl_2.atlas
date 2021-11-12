@@ -1,0 +1,62 @@
+
+Girl_2.png
+size: 1024,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Face_1
+  rotate: false
+  xy: 480, 194
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+02/Hair
+  rotate: false
+  xy: 735, 167
+  size: 149, 338
+  orig: 149, 338
+  offset: 0, 0
+  index: -1
+02/leg
+  rotate: false
+  xy: 2, 113
+  size: 237, 392
+  orig: 237, 392
+  offset: 0, 0
+  index: -1
+Face_1
+  rotate: false
+  xy: 886, 444
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: true
+  xy: 480, 16
+  size: 149, 338
+  orig: 149, 338
+  offset: 0, 0
+  index: -1
+body
+  rotate: false
+  xy: 480, 257
+  size: 253, 248
+  orig: 253, 248
+  offset: 0, 0
+  index: -1
+head
+  rotate: true
+  xy: 2, 2
+  size: 109, 198
+  orig: 109, 198
+  offset: 0, 0
+  index: -1
+leg
+  rotate: false
+  xy: 241, 113
+  size: 237, 392
+  orig: 237, 392
+  offset: 0, 0
+  index: -1

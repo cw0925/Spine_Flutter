@@ -1,0 +1,181 @@
+
+Nv_01.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+02/Arm_Up_L
+  rotate: false
+  xy: 523, 563
+  size: 75, 123
+  orig: 75, 123
+  offset: 0, 0
+  index: -1
+02/Arm_Up_R
+  rotate: true
+  xy: 740, 809
+  size: 76, 126
+  orig: 76, 126
+  offset: 0, 0
+  index: -1
+02/Coat
+  rotate: false
+  xy: 603, 678
+  size: 126, 116
+  orig: 126, 116
+  offset: 0, 0
+  index: -1
+02/Face_1
+  rotate: true
+  xy: 428, 380
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+02/Hair
+  rotate: false
+  xy: 159, 343
+  size: 149, 338
+  orig: 149, 338
+  offset: 0, 0
+  index: -1
+02/Leg_L
+  rotate: false
+  xy: 404, 663
+  size: 92, 358
+  orig: 92, 358
+  offset: 0, 0
+  index: -1
+02/Leg_R
+  rotate: false
+  xy: 2, 281
+  size: 155, 369
+  orig: 155, 369
+  offset: 0, 0
+  index: -1
+02/LiuHai
+  rotate: false
+  xy: 498, 823
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+02/Pigu
+  rotate: false
+  xy: 606, 887
+  size: 167, 134
+  orig: 167, 134
+  offset: 0, 0
+  index: -1
+02/head
+  rotate: false
+  xy: 418, 528
+  size: 103, 133
+  orig: 103, 133
+  offset: 0, 0
+  index: -1
+Arm_L
+  rotate: true
+  xy: 2, 2
+  size: 55, 112
+  orig: 55, 112
+  offset: 0, 0
+  index: -1
+Arm_R
+  rotate: true
+  xy: 606, 796
+  size: 89, 132
+  orig: 89, 132
+  offset: 0, 0
+  index: -1
+Arm_Up_L
+  rotate: true
+  xy: 159, 266
+  size: 75, 123
+  orig: 75, 123
+  offset: 0, 0
+  index: -1
+Arm_Up_R
+  rotate: false
+  xy: 944, 895
+  size: 76, 126
+  orig: 76, 126
+  offset: 0, 0
+  index: -1
+Body
+  rotate: false
+  xy: 2, 59
+  size: 119, 220
+  orig: 119, 220
+  offset: 0, 0
+  index: -1
+Coat
+  rotate: true
+  xy: 310, 335
+  size: 126, 116
+  orig: 126, 116
+  offset: 0, 0
+  index: -1
+Face_1
+  rotate: false
+  xy: 418, 465
+  size: 83, 61
+  orig: 83, 61
+  offset: 0, 0
+  index: -1
+Hair
+  rotate: false
+  xy: 159, 683
+  size: 149, 338
+  orig: 149, 338
+  offset: 0, 0
+  index: -1
+Hand_L
+  rotate: false
+  xy: 868, 825
+  size: 45, 60
+  orig: 45, 60
+  offset: 0, 0
+  index: -1
+Hand_R
+  rotate: false
+  xy: 600, 619
+  size: 46, 57
+  orig: 46, 57
+  offset: 0, 0
+  index: -1
+Leg_L
+  rotate: false
+  xy: 310, 663
+  size: 92, 358
+  orig: 92, 358
+  offset: 0, 0
+  index: -1
+Leg_R
+  rotate: false
+  xy: 2, 652
+  size: 155, 369
+  orig: 155, 369
+  offset: 0, 0
+  index: -1
+LiuHai
+  rotate: false
+  xy: 310, 463
+  size: 106, 198
+  orig: 106, 198
+  offset: 0, 0
+  index: -1
+Pigu
+  rotate: false
+  xy: 775, 887
+  size: 167, 134
+  orig: 167, 134
+  offset: 0, 0
+  index: -1
+head
+  rotate: false
+  xy: 498, 688
+  size: 103, 133
+  orig: 103, 133
+  offset: 0, 0
+  index: -1
