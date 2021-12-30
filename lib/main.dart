@@ -265,4 +265,27 @@ class _MyHomePageState extends State<MyHomePage> {
     Attachment attachment = slot2.getAttachment();
     slot1.setAttachment(attachment);
   }
+  changeSkin(){
+
+    SkeletonAnimation.createWithFiles(
+      'Girl_2.atlas',
+      'Girl_2.json',
+      'Girl_2.png',
+      pathPrefix: 'assets/Girl_2/',
+    ).then((SkeletonAnimation skeleton) {
+      // skeleton.setSkinByName('goblin');
+      skeleton.state.setAnimation(0, 'animation', true);
+      setState(() => _raptorSkeleton = skeleton);
+
+      Slot slot1 = _skeleton.findSlot('Hair2');
+      Slot slot2 = _raptorSkeleton.findSlot('Hair');
+      Attachment attachment = slot2.getAttachment();
+      slot1.setAttachment(attachment);
+
+    });
+  }
+  clear(){
+    Slot slot = _skeleton.findSlot('Hair2');
+    slot.setToSetupPose();
+  }
 }
